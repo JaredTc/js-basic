@@ -26,3 +26,4 @@ function saludarStudy(estudiante){
 }
 
 saludarStudy("Jared");
+
